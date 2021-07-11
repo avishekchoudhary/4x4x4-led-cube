@@ -11,7 +11,7 @@ Arduino programming and Arduino IDE
   
 ## Screenshots
 
-[img1](Images/img1.png)
+![img1](https://github.com/avishekchoudhary/4x4x4-led-cube/blob/master/Images/img1.png)
 [img2](./Images/img2.png)
 [img3](./Images/img3.png)
 
